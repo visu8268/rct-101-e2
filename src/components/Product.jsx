@@ -23,3 +23,4 @@ const Product = () => {
 };
 
 export default Product;
+// http://localhost:8080/products
